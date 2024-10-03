@@ -14,4 +14,4 @@ end
 
 bubble_sort([18,123,1261361,136123,12,1231,51,26,161,37,13,14,1,3251,61,36123,1,616])
 
-# inefficient, could be cut short by checking if it is already sorted after each pass, or by ignoring the last n after n passes that are guaranteed to be sorted
+# inefficient, could be cut short by checking if it is already sorted after each pass, or by ignoring the last n after n passes that are guaranteed to be sortedg
